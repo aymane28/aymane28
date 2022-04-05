@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hey 👋
 
 - I'm Aymane AFDARI, a Software Engineer Student
 - :computer: I code on PHP, SQL, JS, CSS and HTML
 - I also use Docker 
+- In addition I have some basics in Java
 - 🔭 I love learning new stuff.
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on PHP projects 
