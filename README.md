@@ -5,9 +5,9 @@
 - I also use Docker 
 - In addition I have some basics in Java
 - 🔭 I love learning new stuff.
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Symfony
 - 👯 I’m looking to collaborate on PHP projects 
-- 📫 How to reach me: afdari@et.esiea.fr
+- 📫 How to reach me: aymanedhj7@gmail.com
 
 <!--
 **aymane28/aymane28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
