@@ -1,11 +1,12 @@
 ### Hey 👋
 
-- I'm Aymane AFDARI, a Software Engineer Student
-- :computer: I code on PHP, SQL, JS, CSS and HTML
-- I also use Docker 
+- I'm Aymane AFDARI, 22 years old, a Software Engineer Student
+- :computer: I principaly code on PHP with Symfony
+- I use Html, CSS, SQL
+- I also use Devops with Docker
 - In addition I have some basics in Java
-- 🔭 I love learning new stuff.
 - 🌱 I’m currently learning Symfony
+- 🔭 I love learning new stuff.
 - 👯 I’m looking to collaborate on PHP projects 
 - 📫 How to reach me: aymanedhj7@gmail.com
 
