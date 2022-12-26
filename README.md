@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- I'm Aymane AFDARI, 22 years old, a Software Engineer Student
+- I am Aymane. I have 22 years old, I'm a Software Engineer Student
 - :computer: I principaly code on PHP with Symfony
 - I use Html, CSS, SQL
 - I also use Devops with Docker
