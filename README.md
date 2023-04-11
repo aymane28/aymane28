@@ -1,13 +1,13 @@
 ### Hey 👋
 
-- I am Aymane. I have 22 years old, I'm a Software Engineer Student
+- I am Aymane. I have 23 years old, I'm a Software Engineer Student
 - :computer: I principaly code on PHP with Symfony
 - I use Html, CSS, SQL
-- I also use Devops with Docker
-- In addition I have some basics in Java
-- 🌱 I’m currently learning Symfony
+- I also use Devops with Docker and agile methodology
+- In addition I have some basics in Java and C
+- 🌱 I’m currently learning Symfony and React
 - 🔭 I love learning new stuff.
-- 👯 I’m looking to collaborate on PHP projects 
+- 👯 I’m looking to collaborate on fullstack projects 
 - 📫 How to reach me: aymanedhj7@gmail.com
 
 <!--
