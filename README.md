@@ -1,6 +1,7 @@
 ### Hey 👋
 
-- I am Aymane. I have 23 years old, I'm a Software Engineer Student
+- I am Aymane. I have 23 years old
+- I work as a project manager and developper in a big company in France
 - :computer: I principaly code on PHP with Symfony
 - I use Html, CSS, SQL
 - I also use Devops with Docker and agile methodology
